@@ -22,7 +22,7 @@ public class GoogleSMS {
         driver.quit();
     }
 
-    String[] brojevi = {"0609758897","0609758897","0609758897"};
+    String[] brojevi = {"061111111","0622222","06333333"};
     String[] imena = {"Jovan","Pavle","Petar"};
     String message = "Cao $ kako ste?";
     @Test
